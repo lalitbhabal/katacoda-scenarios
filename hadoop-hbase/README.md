@@ -1,1 +1,1 @@
-This is hadoop-hbase scenario.
+This is hadoop-hbase scenario!
